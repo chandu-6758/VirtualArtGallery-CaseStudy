@@ -1,0 +1,5 @@
+hostname=Chandana\SQLEXPRESS
+dbname=VirtualArtGallery
+username=Chandana
+password=Chandana03
+port=1433
